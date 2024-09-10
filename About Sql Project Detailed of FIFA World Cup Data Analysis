@@ -1,0 +1,38 @@
+# FIFA-World-Cup-Data-Analysis-sql-project
+In this project, I performed advanced SQL queries on FIFA World Cup data to analyze team performance, player statistics, and tactical information. The data comes from two key tables: team_stats and wc_stats, providing insight into team ranks, goals, wins, and individual player contributions like assists and passes. This analysis is valuable for sports analysts to make data-driven decisions, such as evaluating team performance and comparing players.
+
+#Project Objective:
+Analyze FIFA World Cup team performance data using SQL queries.
+Retrieve important statistics such as goals scored, match results, player actions, and team rankings.
+Make group-level comparisons and present insights in a structured manner to assist sports analysts in understanding key performance metrics.
+Present data related to goalkeeper, defensive, and team performance.
+
+#Team and Match Insights:
+You retrieved unique team names from the dataset.
+Identified the team ranked first in group 7.
+Calculated the total number of teams participating.
+Retrieved the number of matches played by each team.
+
+#Performance Metrics:
+Calculated the percentage of wins and losses for each team based on matches played.
+Identified the team with the maximum and minimum number of goals scored.
+Calculated the average goal difference and analyzed teams with zero points.
+Compared expected goals scored and expected goals conceded for teams, showing where expectations were met or exceeded.
+
+#Player and Team Stats:
+Analyzed the number of players used and compared average player age.
+Determined average possession percentage for teams and identified teams with over 600 minutes of play.
+Analyzed team performance in terms of goals, assists, penalty kicks, and yellow/red cards.
+Extracted data related to goals per 90 minutes, assists per 90 minutes, and shots on target percentages.
+
+#Goalkeeper and Defensive Metrics:
+Focused on goalkeeper performance, analyzing metrics such as clean sheets, penalty saves, defensive actions, and save percentage.
+
+#Tactical and Match Performance:
+Explored shot-creating actions, passes attempted, progressive passes, and passes into the final third.
+Investigated fouls, aerial duels won, and offside statistics.
+Compared shots and goals per shot on target for different teams.
+
+#Group-Level Statistics:
+Analyzed performance metrics at the group level by calculating average wins, expected goal differences, and the number of fouls, offsides, and games played.
+Focused on average age of players per group and compared passes completion percentage and goals per 90 minutes across groups.
